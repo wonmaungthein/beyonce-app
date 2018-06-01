@@ -7,7 +7,6 @@ class App extends Component {
     return (
       <div>
         <section>
-          <h1>Hello Beyoncé, my friend</h1>
           <h1>Beyoncé</h1>
           <p>
             One of the most recognizable figures in contemporary music, Beyoncé
