@@ -5,7 +5,7 @@ import Albums from "../Albums/Albums";
 class App extends Component {
   render() {
     return (
-      <div>
+      <div className="container">
         <section>
           <h1>Beyoncé</h1>
           <p>
